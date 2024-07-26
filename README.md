@@ -39,4 +39,12 @@ Este sistema foi desenvolvido utilizando **WPF .NET Framework**. O objetivo prin
 
 Se você quiser contribuir para o projeto, por favor, faça um fork do repositório e envie um pull request com suas alterações. Para questões ou sugestões, abra uma issue no GitHub.
 
+## Demonstração
+
+![Tela para preenchimento da empresa](Images/Tela1.png)
+
+![Tela da exportação de dados](Images/Tela2.png)
+
+![Spinner de carregamento](Images/Tela3.png)
+
 ---
