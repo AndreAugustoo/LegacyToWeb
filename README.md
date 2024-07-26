@@ -41,10 +41,10 @@ Se você quiser contribuir para o projeto, por favor, faça um fork do repositó
 
 ## Demonstração
 
-![Tela para preenchimento da empresa](LegacyToWeb/Images/Tela1.PNG)
+![Tela para preenchimento da empresa](./Images/Tela1.PNG)
 
-![Tela da exportação de dados](LegacyToWeb/Images/Tela2.PNG)
+![Tela da exportação de dados](./Images/Tela2.PNG)
 
-![Spinner de carregamento](LegacyToWeb/Images/Tela3.PNG)
+![Spinner de carregamento](./Images/Tela3.PNG)
 
 ---
